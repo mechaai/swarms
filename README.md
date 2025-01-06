@@ -1,7 +1,6 @@
 <div align="center">
   <a href="https://mechaai.xyz">
 <img src="https://pictr.com/images/2025/01/06/x1pbYP.jpg" alt="x1pbYP.jpg" border="0" />
-    <img src="https://pictr.com/images/2025/01/06/x1pbYP.jpg" style="margin: 15px; max-width: 300px" width="50%" alt="Logo">
   </a>
 </div>
 
