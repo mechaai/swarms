@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://mechaai.xyz">
-<img src="https://pictr.com/images/2025/01/06/x11wvV.jpg" alt="x11wvV.jpg" border="0" />
+<img src="https://pictr.com/images/2025/01/06/x1pGMI.jpg" alt="x1pGMI.jpg" border="0" />
     <img src="https://github.com/kyegomez/swarms/blob/master/images/swarmslogobanner.png" style="margin: 15px; max-width: 300px" width="50%" alt="Logo">
   </a>
 </div>
