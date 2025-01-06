@@ -35,7 +35,7 @@ Key Features:
     </a>
 </p>
 <p align="center">
-<a href="https://twitter.com/swarms_corp/">🐦 Twitter</a>
+<a href="https://x.com/MechaAI_Corp">🐦 Twitter</a>
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
 <a href="https://mechaai.xyz">📢 Website</a>
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
