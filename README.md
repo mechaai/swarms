@@ -1,7 +1,11 @@
 <div align="center">
   <a href="https://mechaai.xyz">
-<img src="https://pictr.com/images/2025/01/06/x1pGMI.jpg" alt="x1pGMI.jpg" border="0" />
-
+    <img src="https://github.com/kyegomez/swarms/blob/master/images/swarmslogobanner.png" style="margin: 15px; max-width: 300px" width="50%" alt="Logo">
+  </a>
+</div>
+<p align="center">
+  <em>The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework </em>
+</p>
 
 Mecha ai is a swarms-powered agent designed to optimize your DeFi experience. It leverages advanced machine learning algorithms to:
 
